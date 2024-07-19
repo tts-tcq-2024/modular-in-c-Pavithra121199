@@ -5,7 +5,7 @@
 #include "test_number_to_pair.h"
 #include "test_pair_to_number.h"
 
-int main() {
+int main() { 
     testNumberToPair(4, WHITE, BROWN);
     testNumberToPair(5, WHITE, SLATE);
     testPairToNumber(BLACK, ORANGE, 12);
