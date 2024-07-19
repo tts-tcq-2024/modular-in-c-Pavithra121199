@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "color_codes.h"
 #include "color_pair_to_string.h"
 #include "get_color_from_pair_number.h"
 
