@@ -4,7 +4,7 @@
 #define MAX_COLORPAIR_NAME_CHARS 16
 
 typedef enum {
-    WHITE, RED, BLACK, YELLOW, VIOLET
+    WHITE, RED, BLACK, YELLOW, VIOLET 
 } MajorColor;
 
 typedef enum {
