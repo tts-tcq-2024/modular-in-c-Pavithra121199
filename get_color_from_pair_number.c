@@ -1,3 +1,4 @@
+#include "color_codes.h"
 #include "get_color_from_pair_number.h"
 
 ColorPair GetColorFromPairNumber(int pairNumber) {
