@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <assert.h>
-#include "color_codes.h"
 #include "get_pair_number_from_color.h"
 #include "test_pair_to_number.h"
 
