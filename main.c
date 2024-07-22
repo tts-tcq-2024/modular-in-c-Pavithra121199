@@ -12,4 +12,3 @@ int main() {
     const char* reference_manual = generate_reference_manual();  
     printf("%s", reference_manual);     //print if the reference manual is needed
 }
-
