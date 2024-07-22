@@ -9,7 +9,7 @@ int main() {
     testNumberToPair(5, WHITE, SLATE);
     testPairToNumber(BLACK, ORANGE, 12);
     testPairToNumber(VIOLET, SLATE, 25);
-    generate_reference_manual();
-    return 0;
+    const char* reference_manual = generate_reference_manual();  
+    printf("%s", manual);     //print if the reference manual is needed
 }
 
