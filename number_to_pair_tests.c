@@ -12,3 +12,4 @@ void testNumberToPair(int pairNumber, MajorColor expectedMajor, MinorColor expec
     assert(colorPair.majorColor == expectedMajor);
     assert(colorPair.minorColor == expectedMinor);
 }
+
