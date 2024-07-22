@@ -10,6 +10,6 @@ int main() {
     testPairToNumber(BLACK, ORANGE, 12);
     testPairToNumber(VIOLET, SLATE, 25);
     const char* reference_manual = generate_reference_manual();  
-    printf("%s", manual);     //print if the reference manual is needed
+    printf("%s", reference_manual);     //print if the reference manual is needed
 }
 
