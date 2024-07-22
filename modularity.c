@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "color_codes.h"
-#include "print_reference_manual.h"
-#include "test_number_to_pair.h"
-#include "test_pair_to_number.h"
+#include "reference_manual_printer.h"
+#include "number_to_pair_tests.h"
+#include "pair_to_number_tests.h"
 
 int main() { 
     testNumberToPair(4, WHITE, BROWN);
