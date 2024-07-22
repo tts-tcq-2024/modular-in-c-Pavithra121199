@@ -8,3 +8,4 @@ ColorPair GetColorFromPairNumber(int pairNumber) {
     colorPair.minorColor = (MinorColor)(zeroBasedPairNumber % numberOfMinorColors);
     return colorPair;
 }
+
