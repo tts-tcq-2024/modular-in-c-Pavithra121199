@@ -5,6 +5,7 @@
 
 #define MAX_BUFFER_SIZE 1024
 #define MAX_LINE_SIZE 20
+
 const char* generate_reference_manual() {
     static char reference_manual[MAX_BUFFER_SIZE];
     static char line[MAX_LINE_SIZE];
