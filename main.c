@@ -12,3 +12,4 @@ int main() {
     generate_reference_manual();
     return 0;
 }
+
