@@ -11,3 +11,4 @@ void testPairToNumber(MajorColor major, MinorColor minor, int expectedPairNumber
     printf("Got pair number %d\n", pairNumber);
     assert(pairNumber == expectedPairNumber);
 }
+
