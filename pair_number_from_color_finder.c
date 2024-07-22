@@ -1,4 +1,4 @@
-#include "get_pair_number_from_color.h"
+#include "pair_number_from_color_finder.h"
 #include "color_codes.h"
 
 int GetPairNumberFromColor(const ColorPair* colorPair) {
