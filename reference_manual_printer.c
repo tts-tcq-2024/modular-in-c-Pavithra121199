@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "color_pair_to_string.h"
-#include "get_color_from_pair_number.h"
+#include "colorpair_to_string_converter.h"
+#include "color_from_pair_number_finder.h"
 
 void print_reference_manual() {
     char colorPairNames[MAX_COLORPAIR_NAME_CHARS];
