@@ -6,3 +6,4 @@ void ColorPairToString(const ColorPair* colorPair, char* buffer) {
             MajorColorNames[colorPair->majorColor],
             MinorColorNames[colorPair->minorColor]);
 }
+
