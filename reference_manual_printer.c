@@ -12,3 +12,4 @@ void print_reference_manual() {
         printf("%d: %s\n", i, colorPairNames);
     }
 }
+
