@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <assert.h>
-#include "color_pair_to_string.h"
-#include "get_color_from_pair_number.h"
-#include "test_number_to_pair.h"
+#include "colorpair_to_string_converter.h"
+#include "color_from_pair_number_finder.h"
+#include "number_to_pair_tests.h"
 
 void testNumberToPair(int pairNumber, MajorColor expectedMajor, MinorColor expectedMinor) {
     ColorPair colorPair = GetColorFromPairNumber(pairNumber);
