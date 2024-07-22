@@ -12,4 +12,3 @@ void generate_reference_manual() {
         printf("%d: %s\n", i, colorPairNames);
     }
 }
-
